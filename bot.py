@@ -5,7 +5,7 @@ Created on Wed Feb 26 20:37:53 2020
 @author: Konstantin
 """
 import telebot
-token=''
+token='1137283074:AAG-j7YVn-qDj5GYaFKzyFkWGesrVSFVT7E'
 bot = telebot.TeleBot(token)
 
 @bot.message_handler(commands=['start', 'go'])
